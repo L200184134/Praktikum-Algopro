@@ -1,0 +1,5 @@
+file = open ("L200184134","w")
+file.write ("L200184134 \n")
+file.write ("12-08-2000 \n")
+file.write ("MAHARDHIKA BATHIARTO DIM ZARITA")
+file.close()
